@@ -1,0 +1,45 @@
+.cc-success {
+  stroke: #34bfa3;
+}
+.cc-warning {
+  stroke: #ffb822;
+}
+.cc-info {
+  stroke: #36a3f7;
+}
+.cc-primary {
+  stroke: #5867dd;
+}
+.cc-danger {
+  stroke: #34BFA3;
+}
+.wch{
+	stroke: #000000;
+}
+
+
+.ct-chart-bar .ct-bar:nth-of-type(4n+1) {
+stroke: #71A28A;
+}
+
+.ct-chart-bar .ct-bar:nth-of-type(4n+2) {
+stroke: #FF6414;
+}
+
+.ct-chart-bar .ct-bar:nth-of-type(4n+3) {
+stroke: #EFB200;
+}
+
+.ct-chart-bar .ct-bar:nth-of-type(4n+4) {
+stroke: #91A453;
+}
+
+.ct-label.ct-horizontal.ct-end{
+	color:#000 !important;
+	font-size: 13px;
+}
+
+.ct-label.ct-vertical.ct-start{
+	color:#000 !important;
+	font-size: 13px;
+}
